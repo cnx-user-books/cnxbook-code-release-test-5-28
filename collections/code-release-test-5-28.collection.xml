@@ -1,0 +1,13 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Ed Woodward">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11801</md:content-id>
+    <md:title>Code Release Test 5-28</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>2eb124e7-fd22-45a5-b502-f8b687eeb922</md:uuid>
+<md:slug>code-release-test-5-28</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m55685"/>
+  </col:content>
+</col:collection>
